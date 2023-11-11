@@ -3,9 +3,13 @@ import starlight from "@astrojs/starlight";
 import tailwind from "@astrojs/tailwind";
 
 import react from "@astrojs/react";
+import remarkBracketedLink from "./src/utils/remark-bracketed-link.mjs";
 
 // https://astro.build/config
 export default defineConfig({
+  markdown: {
+    remarkPlugins: [remarkBracketedLink],
+  },
   integrations: [
     starlight({
       title: "LeoRoese Blog",
@@ -19,15 +23,6 @@ export default defineConfig({
         github: "https://github.com/withastro/starlight",
       },
       sidebar: [
-        {
-          label: "Outlines",
-          items: [
-            {
-              label: "How to use",
-              link: "/outlines/how-to-use/",
-            },
-          ],
-        },
         {
           label: "Notes",
           autogenerate: {
