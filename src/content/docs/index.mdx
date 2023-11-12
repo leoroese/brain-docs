@@ -6,12 +6,12 @@ hero:
   tagline: This is a place for me to dump my thoughts and ideas. I'm not sure what will come of it, but I'm excited to find out.
   actions:
     - text: Something to doing?
-      link: /notes/test/
-      icon: right-arrow
+      link: /notes/how-to-use-my-brain-docs/
+      icon: open-book
       variant: primary
     - text: About me
-      link: /notes/leo
-      icon: external
+      link: /notes/about-me/
+      icon: right-arrow
 ---
 
 import { Card, CardGrid } from "@astrojs/starlight/components";
@@ -20,9 +20,21 @@ import { Card, CardGrid } from "@astrojs/starlight/components";
 
 <CardGrid>
   <Card title="Follow me on twitter" icon="twitter">
-    Twitter @
+    <a
+      referrerpolicy="no-referrer"
+      target="_blank"
+      href="https://twitter.com/leoroese"
+    >
+      @leoroese
+    </a>
   </Card>
   <Card title="Subscribe to my youtube" icon="youtube">
-    Youtube
+    <a
+      referrerpolicy="no-referrer"
+      target="_blank"
+      href="https://www.youtube.com/channel/UC3QP9uZ1UgqsZleXXZKs8cw"
+    >
+      Youtube
+    </a>
   </Card>
 </CardGrid>
