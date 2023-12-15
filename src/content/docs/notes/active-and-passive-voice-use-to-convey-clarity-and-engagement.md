@@ -1,5 +1,5 @@
 ---
-title: active-and-passive-voice-use-to-convey-clarity-and-engagement
+title: Active and passive voice use to convey clarity and engagement
 ---
 he choice between active and passive voice in writing not only affects clarity and engagement but also sets the tone and influences how readers perceive the content.
 
