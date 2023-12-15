@@ -1,5 +1,5 @@
 ---
-title: parse-dont-validate
+title: Parse dont validate
 ---
 Parsing effectively leverages a type system for input handling, as opposed to mere validation.
 

@@ -1,5 +1,5 @@
 ---
-title: utilize-markup-languages-for-digital-document-presentation
+title: Utilize markup languages for digital document presentation
 ---
 Markup languages, which have evolved alongside digital media, use a set of annotated tags to define how digital documents are displayed.
 

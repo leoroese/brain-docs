@@ -1,5 +1,5 @@
 ---
-title: execution-context
+title: Execution context
 ---
 Environment where code is run. A new execution context is created every time a function or block of code is executed
 

@@ -1,5 +1,5 @@
 ---
-title: jit-the-bridge-between-interpreted-and-compiled
+title: Jit the bridge between interpreted and compiled
 ---
 Just in time compilation is a technique where an interpreted language employs a compilation step at runtime to speed up performance.
 

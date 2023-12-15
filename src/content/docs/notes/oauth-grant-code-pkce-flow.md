@@ -1,5 +1,5 @@
 ---
-title: oauth-grant-code-pkce-flow
+title: Oauth grant code pkce flow
 ---
 Higher security code grant flow typically useful for native apps like mobile and single page applications.
 

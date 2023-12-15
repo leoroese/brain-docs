@@ -1,5 +1,5 @@
 ---
-title: if-its-shaped-like-a-duck-then-its-a-duck
+title: If its shaped like a duck then its a duck
 ---
 Duck typing is a concept where you are able to determine the type or "shape" of an object given the available properties and methods.
 

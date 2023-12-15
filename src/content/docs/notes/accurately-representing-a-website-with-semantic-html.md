@@ -1,5 +1,5 @@
 ---
-title: accurately-representing-a-website-with-semantic-html
+title: Accurately representing a website with semantic html
 ---
 Semantic HTML plays a crucial role in web development by providing a more detailed way to organize web documents.
 

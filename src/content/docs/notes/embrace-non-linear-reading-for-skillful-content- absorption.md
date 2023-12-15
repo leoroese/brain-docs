@@ -1,5 +1,5 @@
 ---
-title: embrace-non-linear-reading-for-skillful-content-absorption
+title: Embrace non linear reading for skillful content absorption
 ---
 Contrary to conventional teachings, reading doesn’t always have to follow a linear path from beginning to end.
 

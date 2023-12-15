@@ -1,5 +1,5 @@
 ---
-title: speed-up-pull-requests-using-stacked-diffs
+title: Speed up pull requests using stacked diffs
 ---
 In the traditional pull request model, developers often encounter delays and complexities due to lengthy reviews and difficulty in understanding large code changes.
 

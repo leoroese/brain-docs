@@ -1,5 +1,5 @@
 ---
-title: abstract-syntax-trees-help-tools-understand-your-code
+title: Abstract syntax trees help tools understand your code
 ---
 Abstract syntax trees (ASTs) play a crucial role in understanding the structure and relationships within your code.
 

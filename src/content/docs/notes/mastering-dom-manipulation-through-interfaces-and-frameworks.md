@@ -1,5 +1,5 @@
 ---
-title: mastering-dom-manipulation-through-interfaces-and-frameworks
+title: Mastering dom manipulation through interfaces and frameworks
 ---
 The Document Object Model (DOM) is an essential programming interface in web development. It represents web documents in a structured, object-oriented manner, enabling languages like JavaScript to interact with and manipulate a document's structure, style, and content programmatically.
 

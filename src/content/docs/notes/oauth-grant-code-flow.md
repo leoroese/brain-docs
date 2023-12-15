@@ -1,5 +1,5 @@
 ---
-title: oauth-grant-code-flow
+title: Oauth grant code flow
 ---
 Authentication process used by web apps to exchange short-lived, server side code for a token.
 

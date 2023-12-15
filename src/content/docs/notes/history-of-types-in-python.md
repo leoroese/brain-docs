@@ -1,5 +1,5 @@
 ---
-title: history-of-types-in-python
+title: History of types in python
 ---
 Python introduces type hints in version 3.5
 

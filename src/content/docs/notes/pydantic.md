@@ -1,5 +1,5 @@
 ---
-title: pydantic
+title: Pydantic
 ---
 Data validation library for python.
 

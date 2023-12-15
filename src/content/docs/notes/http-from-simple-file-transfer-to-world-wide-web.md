@@ -1,5 +1,5 @@
 ---
-title: http-from-simple-file-transfer-to-world-wide-web
+title: Http from simple file transfer to world wide web
 ---
 HTTP started as a method for transferring files in a lab environment, evolving alongside the World Wide Web.
 

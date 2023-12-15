@@ -1,5 +1,5 @@
 ---
-title: oauth2.0
+title: Oauth2.0
 ---
 A widely adopted authorization framework that grants third-party applications access to protected resources.
 

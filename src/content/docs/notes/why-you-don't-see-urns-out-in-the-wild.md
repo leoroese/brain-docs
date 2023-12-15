@@ -1,5 +1,5 @@
 ---
-title: why-you-don't-see-urns-out-in-the-wild
+title: Why you don't see urns out in the wild
 ---
 Uniform Resource Names (URNs), a subtype of Uniform Resource Identifiers (URIs), is a permanent identifier for internet resources and employs the urn scheme. 
 

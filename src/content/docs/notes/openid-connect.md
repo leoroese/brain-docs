@@ -1,5 +1,5 @@
 ---
-title: openid-connect
+title: OpenID connect
 ---
 OpenID connect (OIDC) is an authentication layer built on top of [[oauth2.0]].
 

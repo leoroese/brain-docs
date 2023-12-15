@@ -1,5 +1,5 @@
 ---
-title: oauth-implicit-flow
+title: Oauth implicit flow
 ---
 The implicit flow is an Oauth protocol flow designed for scenarios where only user authentication is needed, no authorization.
 

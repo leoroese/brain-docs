@@ -1,5 +1,5 @@
 ---
-title: recursion
+title: Recursion
 ---
 ## Parts of recursion
 

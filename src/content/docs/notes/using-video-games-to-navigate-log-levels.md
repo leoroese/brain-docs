@@ -1,5 +1,5 @@
 ---
-title: using-video-games-to-navigate-log-levels
+title: Using video games to navigate log levels
 ---
 In software development, selecting the appropriate log level is like choosing the difficulty setting for your play-through.
 

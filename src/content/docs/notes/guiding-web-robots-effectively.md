@@ -1,5 +1,5 @@
 ---
-title: guiding-web-robots-effectively
+title: Guiding web robots effectively
 ---
 The `robots.txt` file and `noindex` directive serve as crucial tools for instructing web robots, primarily those from search engines, on how to crawl and index a website."
 

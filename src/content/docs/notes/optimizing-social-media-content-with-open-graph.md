@@ -1,5 +1,5 @@
 ---
-title: optimizing-social-media-content-with-open-graph
+title: Optimizing social media content with open graph
 ---
 The Open Graph protocol, developed by Facebook, is a technology standard that shapes how content is represented when shared across social media platforms.
 

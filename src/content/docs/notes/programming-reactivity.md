@@ -1,5 +1,5 @@
 ---
-title: programming-reactivity
+title: Programming reactivity
 ---
 
 Reactivity is a programming paradigm that allows systems to adjust to changes in a declarative manner. For further context, see [[classifying-programming-languages-by-paradigms]].

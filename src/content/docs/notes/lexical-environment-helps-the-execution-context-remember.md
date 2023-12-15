@@ -1,5 +1,5 @@
 ---
-title: lexical-environment-helps-the-execution-context-remember
+title: Lexical environment helps the execution context remember
 ---
 A lexical environment is typically a key value store where variables and functions live during the execution context
 

@@ -1,5 +1,5 @@
 ---
-title: decoding-url-syntax-the-internets-dining-experience
+title: Decoding url syntax the internets dining experience
 ---
 Understanding URL syntax is like mastering the universal language of web navigation, essential for efficiently traversing the vast expanse of the internet.
 

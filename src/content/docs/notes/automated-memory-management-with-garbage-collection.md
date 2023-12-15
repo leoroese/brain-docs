@@ -1,5 +1,5 @@
 ---
-title: automated-memory-management-with-garbage-collection
+title: Automated memory management with garbage collection
 ---
 Garbage collection is a solution developed by experts to prevent common memory management errors, making programming more forgiving and less error-prone.
 

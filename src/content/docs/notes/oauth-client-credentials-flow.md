@@ -1,5 +1,5 @@
 ---
-title: oauth-client-credentials-flow
+title: Oauth client credentials flow
 ---
 Client exchanges client_id and client_secret for access_token
 

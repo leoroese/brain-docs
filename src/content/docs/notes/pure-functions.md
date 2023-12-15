@@ -1,5 +1,5 @@
 ---
-title: pure-functions
+title: Pure functions
 ---
 Deterministic functions that given the same input will always produce the same output
 

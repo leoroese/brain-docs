@@ -1,5 +1,5 @@
 ---
-title: sqlalchemy
+title: SQLAlchemy
 ---
 SQLAlchemy is not just a powerful ORM and database connection toolkit for Python; it simplifies and streamlines the process of interacting with a variety of databases.
 Follows a "commit as you go" mentality.

@@ -1,5 +1,5 @@
 ---
-title: prefer-nouns-over-verbs-in-rest-api-routes
+title: Prefer nouns over verbs in rest api routes
 ---
 Use nouns instead of verbs in your api routes.
 

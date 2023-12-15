@@ -1,5 +1,5 @@
 ---
-title: web-routing-techniques
+title: Web routing techniques
 ---
 ## Client side routing
 Navigation work happens client side with javascript without needing to request to server for new pages.

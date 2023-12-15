@@ -1,5 +1,5 @@
 ---
-title: my-strategy-for-learning-new-programming-languages
+title: My strategy for learning new programming languages
 ---
 ### 1. Dive into general documentation
 This helps me familiarize myself with syntax and the quirks of the new language

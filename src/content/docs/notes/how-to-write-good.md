@@ -1,5 +1,5 @@
 ---
-title: how-to-write-good
+title: How to write good
 ---
 I don't write good.
 

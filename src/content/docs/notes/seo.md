@@ -1,5 +1,5 @@
 ---
-title: seo
+title: SEO
 ---
 Search engine optimization (SEO) has become an integral part of web content creation in today's digital age.
 

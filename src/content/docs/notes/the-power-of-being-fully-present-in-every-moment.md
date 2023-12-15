@@ -1,5 +1,5 @@
 ---
-title: the-power-of-being-fully-present-in-every-moment
+title: The power of being fully present in every moment
 ---
 In our fast-paced world, the practice of self-awareness and being fully present is not just a personal benefit; it's a necessity for success and fulfillment across all aspects of life.
 

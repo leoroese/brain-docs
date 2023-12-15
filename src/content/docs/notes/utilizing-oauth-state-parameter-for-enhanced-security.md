@@ -1,5 +1,5 @@
 ---
-title: utilizing-oauth-state-parameter-for-enhanced-security
+title: Utilizing oauth state parameter for enhanced security
 ---
 The primary use of the OAuth state parameter is to mitigate Cross-Site Request Forgery (CSRF) attacks. It achieves this by associating each request with a unique, non-guessable value, ensuring the authenticity of the request
 

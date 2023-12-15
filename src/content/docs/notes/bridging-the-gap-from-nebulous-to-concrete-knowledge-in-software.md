@@ -1,5 +1,5 @@
 ---
-title: bridging-the-gap-from-nebulous-to-concrete-knowledge-in-software
+title: Bridging the gap from nebulous to concrete knowledge in software
 ---
 > Nebulous: unclear, vague, or ill-defined
 

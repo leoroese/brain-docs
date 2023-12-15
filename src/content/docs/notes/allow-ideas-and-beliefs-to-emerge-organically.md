@@ -1,5 +1,5 @@
 ---
-title: allow-ideas-and-beliefs-to-emerge-organically
+title: Allow ideas and beliefs to emerge organically
 ---
 It's important to be aware of preconceived notions and their potential to cloud our thinking and decision-making processes. These pre-set ideas can limit our vision, stifling creativity and the inhibiting the emergence of fresh, unconventional ideas.
 

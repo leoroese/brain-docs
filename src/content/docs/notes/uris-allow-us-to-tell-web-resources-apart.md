@@ -1,5 +1,5 @@
 ---
-title: uris-allow-us-to-tell-web-resources-apart
+title: URIs allow us to tell web resources apart
 ---
 Whether it's a website, gaming article, or that 15th cat meme your grandma sent you, they all have some unique Uniform Resource Identifier to help you find them.
 

@@ -1,5 +1,5 @@
 ---
-title: ensure-universal-usability-through-web-accessibility
+title: Ensure universal usability through web accessibility
 ---
 Accessibility is a critical aspect of any project. It aims to ensure that all potential users, regardless of their abilities or disabilities, can effectively use and interact with your product.
 

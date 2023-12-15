@@ -1,5 +1,5 @@
 ---
-title: python
+title: Python
 ---
 Python is a dynamically typed, high level interpreted programming language that focuses on readability, simplicity, and explicitnesssssssss.
 

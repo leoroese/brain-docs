@@ -1,5 +1,5 @@
 ---
-title: tradeoffs-of-using-types-in-programming
+title: Tradeoffs of using types in programming
 ---
 Types enhance readability and maintainability of a code base. They make it easier for a team of developers to gain comprehension of intent through it's explicit nature.
 

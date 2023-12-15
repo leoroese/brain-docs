@@ -1,5 +1,5 @@
 ---
-title: optimizing-performance-with-batching
+title: Optimizing performance with batching
 ---
 Batching is an effective technique to manage and optimize excessive updates.
 

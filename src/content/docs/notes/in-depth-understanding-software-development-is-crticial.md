@@ -1,5 +1,5 @@
 ---
-title: in-depth-understanding-software-development-is-crticial
+title: In depth understanding software development is crticial
 ---
 One of the key issues with software development is superficial understanding of how something works.
 

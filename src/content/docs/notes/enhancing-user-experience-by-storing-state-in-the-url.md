@@ -1,5 +1,5 @@
 ---
-title: enhancing-user-experience-by-storing-state-in-the-url
+title: Enhancing user experience by storing state in the url
 ---
 In frontend programming, particularly with React, we can enhance the user experience significantly by storing non-sensitive application state in the URL. This approach facilitates easy sharing and recreation of specific application views.
 

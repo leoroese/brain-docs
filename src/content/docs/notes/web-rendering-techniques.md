@@ -1,5 +1,5 @@
 ---
-title: web-rendering-techniques
+title: Web rendering techniques
 ---
 In the development of web applications, choosing the appropriate rendering technique - server-side, client-side, or incremental - is crucial for optimizing performance, SEO, and user experience.
 

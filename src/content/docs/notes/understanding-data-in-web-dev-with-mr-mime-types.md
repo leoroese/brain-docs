@@ -1,5 +1,5 @@
 ---
-title: understanding-data-in-web-dev-with-mr-mime-types
+title: Understanding data in web dev with Mr Mime types
 ---
 MIME types identify the nature and format of resources on the web, typically using the format `type/subtype;parameter=value`, such as `text/plain;charset=UTF-8`.
 

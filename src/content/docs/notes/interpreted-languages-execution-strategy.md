@@ -1,5 +1,5 @@
 ---
-title: interpreted-languages-execution-startegy
+title: Interpreted languages execution startegy
 ---
 Interpreted languages translate and execute code at runtime, which allows for more flexibility and faster development, at the sacrifice of performance.
 

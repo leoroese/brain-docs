@@ -1,5 +1,5 @@
 ---
-title: improve-clarity-and-coherent-by-maintaining-tense-when-writing
+title: Improve clarity and coherent by maintaining tense when writing
 ---
 Maintaining a consistent tense while writing is crucial to ensure clarity and coherence. 
 Switching between tenses without reason can confuse readers about the timeline of events and disrupt the narrative flow.

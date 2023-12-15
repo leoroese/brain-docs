@@ -1,5 +1,5 @@
 ---
-title: how-to-collect-observations-while-reading
+title: How to collect observations while reading
 ---
 One essential aspect of deep learning is to write in order to deepen understanding. However, collecting useful observations while reading can be challenging depending on the medium. Simultaneously, it's important to be [[the-power-of-being-fully-present-in-every-moment]].
 

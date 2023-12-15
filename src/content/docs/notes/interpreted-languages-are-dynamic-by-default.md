@@ -1,5 +1,5 @@
 ---
-title: interpreted-languages-are-dynamic-by-default
+title: Interpreted languages are dynamic by default
 ---
 Interpreted languages are languages that do not have an ahead of time compilation step.
 

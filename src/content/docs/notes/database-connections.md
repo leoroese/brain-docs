@@ -1,5 +1,5 @@
 ---
-title: database-connections
+title: Database connections
 ---
 Active connection to a database
 

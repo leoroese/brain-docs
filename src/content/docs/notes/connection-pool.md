@@ -1,5 +1,5 @@
 ---
-title: connection-pool
+title: Connection pool
 ---
 Cache of [[database-connections]] used to maintain long running database connections in memory to avoid context overhead of needing to create new connections since it's an expensive operation.
 ## Tradeoffs

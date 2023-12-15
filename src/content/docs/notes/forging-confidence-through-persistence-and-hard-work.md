@@ -1,5 +1,5 @@
 ---
-title: building-confidence-through-hard-work
+title: Forging confidence through persistence and hard work
 ---
 Often, the road less traveled can lead to unexpected rewards. A notable reward is a significant boost in confidence
 

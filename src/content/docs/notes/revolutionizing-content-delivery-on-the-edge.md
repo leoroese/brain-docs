@@ -1,5 +1,5 @@
 ---
-title: revolutionizing-content-delivery-on-the-edge
+title: Revolutionizing content delivery on the edge
 ---
 Special content delivery network (CDN) that ships with a runtime, allowing you to do some 'server side' work as close as possible to the client.
 

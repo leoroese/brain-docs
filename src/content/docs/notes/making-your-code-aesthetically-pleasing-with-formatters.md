@@ -1,5 +1,5 @@
 ---
-title: making-your-code-aesthetically-pleasing-with-formatters
+title: Making your code aesthetically pleasing with formatters
 ---
 Tools that focuses on the aesthetic of code. Ensuring it's formatted properly and consistently
 

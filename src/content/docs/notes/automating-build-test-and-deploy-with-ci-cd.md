@@ -1,5 +1,5 @@
 ---
-title: automating-build-test-and-deploy-with-ci-cd
+title: Automating build test and deploy with ci cd
 ---
 CI/CD is a tool that allows for automating build, testing, and deployment workflows.
 

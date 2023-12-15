@@ -1,5 +1,5 @@
 ---
-title: splitting-up-your-code-with-module-system
+title: Splitting up your code with module system
 ---
 A module system allows you split up, organize, and use code from other parts of your system or external.
 

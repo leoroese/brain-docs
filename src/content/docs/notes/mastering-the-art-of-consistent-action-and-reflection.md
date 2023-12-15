@@ -1,5 +1,5 @@
 ---
-title: mastering-the-art-of-consistent-action-and-reflection
+title: Mastering the art of consistent action and reflection
 ---
 By nature, human beings are hoarders, driven by instinct to collect and accumulate various items. Whether it's Pokemon cards, receipts, or material notes, we have some inate instinct to collect and preserve for the future.
 

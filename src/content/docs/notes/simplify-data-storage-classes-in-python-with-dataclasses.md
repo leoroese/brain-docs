@@ -1,5 +1,5 @@
 ---
-title: simplify-data-storage-classes-in-python-with-dataclasses
+title: Simplify data storage classes in python with dataclasses
 ---
 Dataclass is a special decorator that helps reduce boilerplate of creating user defined type classes.
 

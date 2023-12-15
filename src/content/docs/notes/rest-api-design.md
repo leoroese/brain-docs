@@ -1,5 +1,5 @@
 ---
-title: rest-api-design
+title: Rest api design
 ---
 REST APIs form the backbone of many modern applications, facilitating seamless communication between different software systems.
 

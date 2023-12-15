@@ -1,5 +1,5 @@
 ---
-title: classifying-programming-languages-by-paradigms
+title: Classifying programming languages by paradigms
 ---
 Programming paradigms are a way of classifying a programming language based on their features.
 

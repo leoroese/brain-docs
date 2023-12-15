@@ -1,5 +1,5 @@
 ---
-title: process-reading-annotations-into-evergreen-notes
+title: Process reading annotations into evergreen notes
 ---
 Transforming reading annotations into evergreen notes is a useful way to retain and organize your knowledge and insights.
 

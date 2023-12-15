@@ -1,5 +1,5 @@
 ---
-title: stateful-vs-stateless-protocols-in-web-development
+title: Stateful vs stateless protocols in web development
 ---
 In web development, choosing between stateful and stateless protocols is a fundamental decision that significantly impacts the architecture and performance of web applications.
 

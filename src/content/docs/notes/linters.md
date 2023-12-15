@@ -1,5 +1,5 @@
 ---
-title: linters
+title: Linters
 ---
 Tool used to static analyze your code for problems
 

@@ -1,5 +1,5 @@
 ---
-title: manipulating-local-dns-with-hosts-file
+title: Manipulating local dns with hosts file
 ---
 Operating system file that maps hostnames to ip addresses in plain text.
 
