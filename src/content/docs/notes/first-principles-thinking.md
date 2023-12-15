@@ -15,8 +15,6 @@ First principles thinking is an effective approach to problem-solving where you 
 
 First principles thinking aligns closely with the concept of [[evergreen-notes]] and that [[evergreen-notes-should-be concept-oriented]]. In software development, as in note-taking, breaking down complex ideas into fundamental elements allows for the creation of clear, concise, and foundational solutions.
 
-
-
 ----
 ## Attributions
 - [Fs](https://fs.blog/first-principles/): Provides an in-depth exploration of first principles thinking with examples.

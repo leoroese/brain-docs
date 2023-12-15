@@ -1,0 +1,3 @@
+Before starting any side project, it's paramount to establish clear goals. Knowing what you aim to achieve can guide your approach, driving focus and efficiency throughout the project.
+
+Ask yourself: What is the primary purpose of this project? Are you seeking financial gains or is the main objective to learn and familiarize yourself with a particular technology or skill? In some instances, the goal could purely be self-improvement, decoupled from monetary gains [[the-true-value-of-skill-development]]

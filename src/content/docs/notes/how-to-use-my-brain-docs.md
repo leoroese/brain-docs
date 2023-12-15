@@ -1,6 +1,5 @@
 ---
 title: How to use
-description: Context for why this website exists
 ---
 ## Welcome!
 
