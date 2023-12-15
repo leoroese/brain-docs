@@ -13,7 +13,7 @@ export default function admonitionToAside() {
 
         const newNode = {
           type: "html",
-          value: `<aside class="starlight-aside starlight-aside--${admonitionType}">\n<p class="starlight-aside__title" aria-hidden="true">${title}</p>\n<section class="starlight-aside__content"><pre>${htmlContent}</pre></section>\n\n</aside>`,
+          value: `<aside class="starlight-aside starlight-aside--${admonitionType}">\n<p class="starlight-aside__title" aria-hidden="true">${title}</p>\n<section class="starlight-aside__content"><p style="white-space: pre-wrap; word-wrap: break-word;">${htmlContent}</p></section>\n\n</aside>`,
         };
 
         // Replace the current node with the new HTML node
