@@ -21,7 +21,7 @@ The state parameter can be stored client-side using cookies, local storage, or s
 - For Single-Page Applications (SPAs): Utilize local storage.
 - For Native Applications: Store in memory or local storage.
 
-```ad-tip
+```ad-warning
 title: Remember
 Always encode uri parameters
 ```

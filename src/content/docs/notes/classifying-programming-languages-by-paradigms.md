@@ -11,14 +11,12 @@ A paradigm where specific step-by-step instructions are provided for completing 
 
 Giving directions from one place to another, where you outline every single step necessary to get there. Telling them exactly what to do
 
-````ad-example
 ```typescript
 let total = 0;
 for (int i = 0; i < length; i++) {
    total += array[i];
 }
 ```
-````
 
 
 ## Declarative
@@ -29,11 +27,9 @@ It's like giving a friend your address and allowing them to find the best route.
 
 > Focuses on the "what" not the "how"
 
-````ad-example
 ```typescript
 array.map((a) => a.id);
 ```
-````
 
 ---
 ## Attributions

@@ -1,3 +1,6 @@
+---
+title: oauth-hybrid-flow
+---
 Combination of [[oauth-grant-code-flow]] and [[oauth-implicit-flow]]. This is possible for apps that can securely store client credentials.
 
 This method is often used for server-side rendered (SSR) frontend stacks like next.js and nuxt.

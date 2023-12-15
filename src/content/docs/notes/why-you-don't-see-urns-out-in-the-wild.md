@@ -1,3 +1,6 @@
+---
+title: why-you-don't-see-urns-out-in-the-wild
+---
 Uniform Resource Names (URNs), a subtype of Uniform Resource Identifiers (URIs), is a permanent identifier for internet resources and employs the urn scheme. 
 
 A URL becomes invalid if data is moved to a different location, this is not the case with URN, it remains constant when objects and resources are moved.

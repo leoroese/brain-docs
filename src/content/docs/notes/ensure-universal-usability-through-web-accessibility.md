@@ -8,7 +8,7 @@ Incorporating accessibility from the project's inception and conducting regular 
 Additionally, adhering to accessibility standards can help meet legal requirements and avoid potential compliance issues.
 
 During the development process, regularly ask yourself these accessibility-related questions to ensure inclusivity:
-```ad-question
+```ad-tip
 title: Accessibility questions
 1. Is my component usable for screen readers?
 2. Can visually impaired users understand the content? Is the central theme discernible even without color?

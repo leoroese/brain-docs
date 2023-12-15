@@ -6,7 +6,7 @@ Duck typing is a concept where you are able to determine the type or "shape" of 
 **If it looks like a duck, and quacks like a duck, then its a duck** 
 > "Quack" - 🦆
 
-````ad-example
+````ad-note
 title: Duck typing
 
 ```typescript

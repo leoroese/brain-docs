@@ -4,11 +4,12 @@ import tailwind from "@astrojs/tailwind";
 
 import react from "@astrojs/react";
 import remarkBracketedLink from "./src/utils/remark-bracketed-link.mjs";
+import admonitionToAside from "./src/utils/admonition-to-aside";
 
 // https://astro.build/config
 export default defineConfig({
   markdown: {
-    remarkPlugins: [remarkBracketedLink],
+    remarkPlugins: [remarkBracketedLink, admonitionToAside],
   },
   integrations: [
     starlight({
