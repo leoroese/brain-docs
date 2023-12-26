@@ -1,5 +1,5 @@
 ---
-title: closure
+title: Closure
 ---
 A function within a function `(funception)`
 
